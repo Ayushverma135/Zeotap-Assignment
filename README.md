@@ -182,4 +182,3 @@ insights into real-time data handling and user interface design.
 ### Screenshot
 
 ![screencapture-localhost-8501-2024-10-26-23_58_27](https://github.com/user-attachments/assets/7f2fd818-aaa1-4c35-a3c2-d644fb8e66c9)
-
